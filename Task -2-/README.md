@@ -61,3 +61,15 @@ The truth is that if other developers who read your code can understand it easil
 The question is: “How simple do you have to be?”
 
 Here is your answer: **_Stupid, dumb simple_**.
+
+#### 4. Maintenance
+
+Maintenance is one of the most important things in software development. Unfortunately, developers usually ignore how important it is. Quick coding and fast shipping look more important than code maintenance. This is the point where they make a mistake — ignorance of future code maintenance.
+
+There will always be some implementation of changes. Not only you have to implement them, but you also have to maintain them over time. As a developer, thinking about future maintenance of changes is one of your main responsibilities.
+
+>All changes require maintenance.
+>Simplicity and complexity are the two main factors that affect code maintenance. The ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces. The effort of maintenance is proportional to the complexity of the software.
+>The one rule that you should follow about maintenance is:
+>**It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation**.
+>— Max Kanat-Alexander, Code Simplicity
