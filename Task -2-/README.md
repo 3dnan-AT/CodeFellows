@@ -34,7 +34,30 @@ However, if you design a bad system, your software’s lifetime will be short
 >possible by their developers, so that they can be — and continue to be — as
 >helpful as possible. — Max Kanat-Alexander, Code Simplicity
 
+#### 4. Simplicity
 
+>_Simplicity is the ultimate sophistication. — Leonardo da Vinci_
 
+Programming is the act of reducing complexity to simplicity. A “bad developer” is just somebody who fails to reduce complexity. A “good developer” is doing everything in their power to make the code as simple as possible for other programmers.
 
+A good developer creates things that are easy to understand so that it’s really easy to shake out all the bugs.
 
+Now, developers are generally intelligent people and none of them likes to be treated like they are idiots. Ironically, this leads them sometimes to create things that are a bit complicated. They basically think like this:
+
+“_Oh, other developers will understand everything I’ve done here. I should write some clever code that is hard to understand so that they can think that I am very smart._”
+
+A mistake caused by a wrong mindset-not necessarily by a lack of programming skills. Most of the programming failures happen because of that mentality.
+
+Showing off that you are smart doesn’t help them.
+
+Developers who are new to your code don’t know anything about it; **they have to learn**.
+
+So, you should ask this question: “Do I want people to understand this and be happy, or do I want them to be confused and frustrated?”
+
+The truth is that if other developers who read your code can understand it easily it means that you are doing good.
+
+>Complexity has nothing to do with intelligence, simplicity does. — Larry Bossidy
+
+The question is: “How simple do you have to be?”
+
+Here is your answer: **_Stupid, dumb simple_**.
