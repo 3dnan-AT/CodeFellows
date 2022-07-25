@@ -34,7 +34,7 @@ However, if you design a bad system, your software’s lifetime will be short
 >possible by their developers, so that they can be — and continue to be — as
 >helpful as possible. — Max Kanat-Alexander, Code Simplicity
 
-#### 4. Simplicity
+#### 3. Simplicity
 
 >_Simplicity is the ultimate sophistication. — Leonardo da Vinci_
 
