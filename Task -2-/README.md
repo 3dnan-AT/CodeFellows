@@ -15,7 +15,7 @@ this is my GitHub link: **[My GitHub](https://github.com/3dnan-AT)**.
 
 First of all, you should understand the purpose of the software. There is, in fact, a single purpose of all software: **To help people**.
 
-> Remember: the purpose of the software is not to show off how 
+> Remember: the purpose of the software is not to show off how
 >intelligent you are. — Max Kanat-Alexander, Code Simplicity.
 
 Developers who cannot conceive the purpose of the software will write bad software. What is bad software? A complex system that doesn’t help people that much.
@@ -69,7 +69,19 @@ Maintenance is one of the most important things in software development. Unfortu
 There will always be some implementation of changes. Not only you have to implement them, but you also have to maintain them over time. As a developer, thinking about future maintenance of changes is one of your main responsibilities.
 
 >All changes require maintenance.
+
+<br />
+
 >Simplicity and complexity are the two main factors that affect code maintenance. The ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces. The effort of maintenance is proportional to the complexity of the software.
+
+<br />
+
 >The one rule that you should follow about maintenance is:
->**It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation**.
+
+<br />
+
+>>**It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation**.
+
+<br />
+
 >— Max Kanat-Alexander, Code Simplicity
